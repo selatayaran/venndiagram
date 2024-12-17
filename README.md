@@ -1,4 +1,4 @@
-# **Diagrama de Venn a partir de Dados Excel**
+# **Diagrama de Venn**
 
 Este script em **R** gera um **Diagrama de Venn** com base em dados fornecidos em uma planilha Excel. Ele utiliza as bibliotecas **VennDiagram** e **readxl** para leitura dos dados e geração do gráfico.
 
